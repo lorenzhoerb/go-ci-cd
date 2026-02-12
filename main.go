@@ -7,6 +7,8 @@ import (
 )
 
 func main() {
+	fmt.Println("Welcome to CLI Calculator")
+
 	for {
 		var cmd string
 		var a, b int
